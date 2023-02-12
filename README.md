@@ -29,9 +29,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Awesome books <a name="about-project"></a>
+# 📖 ToDo-List-javascript_Best_practice <a name="about-project"></a>
 
-> "AwesomeBooks_with_ES6" is a simple website that displays a list of books and allows you to add and remove books from that list. .
+> "ToDo-List-javascript_Best_practice" is a simple website that that my frind review my javascript  best practice.
 
 ## 🛠 Built With <a name="built-with">HTML, CSS, & Javascript</a>
 
@@ -47,7 +47,7 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 > Describe between 1-3 key features of the application.
-- **[add more animation]**
+- **Javascript_Best_practice**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 <!-- LIVE DEMO -->
